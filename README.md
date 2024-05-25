@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, word 👋
 
 <!--
 **lenalightning/lenalightning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.rocketseat.com.br/me/barbosaamanda"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=barbosaamanda&type=card" width="280" alt="Amanda Barbosa's Rocket ID"/></a>
