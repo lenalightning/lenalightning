@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <a href="https://app.rocketseat.com.br/me/barbosaamanda"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=barbosaamanda&type=card" width="280" alt="Amanda Barbosa's Rocket ID"/></a>
 -->
-### Hey, I'm {Amanda} 👋
+### Hey, I'm Amanda 👋
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=lenalightning&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=lenalightning&color=5170ff&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>I'm working in {Rocketseat}<br/> Passionate about technology, education and experience<br/> Building projects focused on innovation and user-centered solutions using IA</p>
+<p>I'm working on Rocketseat<br/> Passionate about technology, education and experience<br/> Building projects focused on innovation and user-centered solutions using IA</p>
