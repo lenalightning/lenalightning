@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=lenalightning&color=5170ff&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>I'm working on Rocketseat<br/> Passionate about technology, education and experience<br/> Building projects focused on innovation and user-centered solutions using IA</p>
+<p>I'm working on Rocketseat<br/> Passionate about technology, education and experience<br/> Building projects focused on innovation and user-centered using IA</p>
